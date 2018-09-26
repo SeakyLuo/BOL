@@ -1,7 +1,7 @@
 # Basketball Online League
 A game design of online basketball games. Player can choose to be a Basketball Player or a Game Manager.
 
-网上篮球游戏设计。玩家可以选择称为球员或球队经理。
+网上篮球游戏设计。玩家可以选择成为球员或球队经理。
 
 The repo only provides a game interface, not a playable game.
 
