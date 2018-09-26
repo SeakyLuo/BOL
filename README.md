@@ -1,5 +1,5 @@
 # Basketball Online League
-A game that simulates the real basketball games.
+A game that simulates the real basketball games. Player can choose to be a Basketball Player or a Game Manager.
 
 The repo only provides a game interface, not a playable game.
 
